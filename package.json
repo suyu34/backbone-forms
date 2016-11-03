@@ -17,6 +17,10 @@
   },
   "main": "distribution.amd/backbone-forms.js",
   "browser": "distribution/backbone-forms.js",
+  "files": [
+    "distribution",
+    "distribution.amd"
+  ],
   "scripts": {
     "test": "open test/index.html"
   }
